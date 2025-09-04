@@ -1,0 +1,35 @@
+class 3 notes 
+href means hyper refrence 
+2 types of link relative and absolute e.g home to about is a relative link and a link to facebook is a static link 
+navigation bar has  the relative links(navigation link)
+<nav> is a tag used for navigation bar link 
+footer and nav bar is same on all pages 
+
+doctype is not a html tag just a declaration of document which tells browser which version of html we are using 
+<!DOCTYPE html>
+<head is a tag that is not be seen on page but is very important
+<title is shown on very above tabs
+
+view source jesa ap ne likha hai wesa ayega
+inspect mein saare tags lagayega boiler elements doctype head etc 
+ye dono right click karne se aate hein 
+
+<dl></dl> is used to define definations we can write many definations in it 
+<dt>mitochondria</dt>
+<dd>power house of a cell</dd>
+
+blockquote tag  is use to write quotations more than one line 
+blockquote have a attritbute cite and refrence of the quote is written in the cite 
+cite is a tag which is generally used to mark the title or writer ,as well as attribute to show refrence.
+p is a block element har bar poori line cover karte hein
+inline elements sirf apni jagah leta hai usi line se wapis shuru hojata hai e.g b,em 
+ek line ka quote is written in <q></q> this is inline quotation 
+
+https stands for hypertext transfer protocal secured and it is a protocol 
+www is sub domain
+name of the site for e.g whatssap is domain
+.com is the top level domain
+and after that it wll be /path.
+dom stands for document object model it is use to show hiearchy 
+
+

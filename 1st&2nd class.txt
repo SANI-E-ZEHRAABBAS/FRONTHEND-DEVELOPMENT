@@ -1,0 +1,19 @@
+text that contain links to redirect
+markup means content is enclosed within tags 
+<h1>-<h6> tags are forheading and <h1> can only be one on a page
+opening tag content and closing tag makes an element
+<ul> is unodered list
+<ol> is ordered list
+<li> </li> comes in between 
+<a href> is anchor tag and href is an attribute.
+semantic elements are elements that clearly describe their meaning in a human- and machine-readable way.
+ In other words, the tag itself tells you what kind of content it holds. all elements are semantic except div
+and span.imp for seo,blinds and organization of code.
+self closing tags are br img hr etc
+p            (Paragraph)
+em         (Emphasized Element)
+Strong   (Strong Importance Element)
+b             (Bring Attention To element)
+I	            (represents a range of text that is set off from the normal text for some reason. )
+u             (Unarticulated Annotation (Underline) element)
+

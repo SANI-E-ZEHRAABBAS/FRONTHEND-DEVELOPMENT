@@ -1,0 +1,28 @@
+entity is piece of text begins w & and ends w ; .ysed to display reserved symbols like copyright symbol or euro symbol
+&copy; copyright symbol
+&euro;
+&reg;
+<code>use to put main computer code
+<kbd>to put keyboard commands like press ctrl + alt
+<samp>to put warning that computer gives like if internet is not working so <samp>please check connection for logging in</samp>
+<var>algebraic expressions and formulas
+<pre>format the texts like code will appear same on website but can only use in kbd samp and var
+<sub>subscript like h<sub>2</sub>o
+<sup>superscript like a<sup>2</sup>
+<del>+<ins> my fav color is <del>blue</del><ins>red</ins>.
+<mark>highlighed for notation and refrence.
+all elements are semantic except div aur span
+<header>we put introductory content which have navigation logo name search 
+header can be used multiple times but in article ,main  etc and it will be their head
+<section> a generic element and it is used to organize websites parts and it also have heading
+<article> blog post magazine 
+both <section> and <article> can use inside eash other
+<aside> indirectly related content is used is written aside
+<footer> copyright content navigations links address
+<!--not displayed--> comment 
+<details> this is to show extra info like chuppi hui info
+<summary>computer</summary>
+abadsefuhfuirhg
+</details>
+<abbr title="doctor">dr</abbr>
+<progress values="55" max="100"></progress> to show progress

@@ -1,0 +1,23 @@
+ <form>: Used to take input from the user.
+e.g <form>
+  Name: <input type="text">
+</form>
+<button>: Makes a clickable button.
+e.g:<button>Click Me</button>
+<div>: A box used to group other elements.
+e.g: <div>
+  <h2>Welcome</h2>
+  <p>This is inside a div.</p>
+</div>
+<select> and <option>: Used to make a dropdown menu
+e.g: <select>
+  <option value="pk">Pakistan</option>
+  <option value="in">India</option>
+  <option value="us">USA</option>
+</select>
+<marquee>: Makes text or images move across the screen.
+e.g: <marquee direction="right">This text is moving →</marquee
+<hr> used for horizontal line
+
+
+

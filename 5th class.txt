@@ -1,0 +1,26 @@
+5th class
+img map is a clickable image which redirect to a link 
+sab images media folder mein rakhni hein
+image map generator se map generate hoga 
+figcaption is used to describe image 
+<figure>
+<img src="xyz"alt="abc">
+<figcaption>abc</figcaption>
+</figure>
+<video src="abc" controls autoplay muted></video>
+slideshow karna hoto js se video ke uper ki cheezein se hatt sakta hai
+audio kabhi autoplay nahi hosakti
+<audio src="abc" controls></audio>
+embedding from youtube
+iframe is emdedding doosri website a ek part into your website ke ekpart.like map ya youtube ka video
+html validator se code check karte hein
+<iframe src="website"></iframe>bohat saari website right nahi deti embed karne ka.
+pexels unsplash 
+<br>ka tag is for line break onlt for poem and address baki sab css se hota hai.its a bad practice to use it otherwise
+<address>author ka contact info 
+email website ka url geographical address social acc phone number
+address in body is whole body uski info
+address in article is author ki info
+
+
+

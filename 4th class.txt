@@ -1,0 +1,22 @@
+class 4
+Path is also called requested content 
+Jo cheez browser m show nahi karni wo head mein likhen ge
+Base tag is used in head tag and it is used jab hamein ek hi website k alag alag page access karne h to ham head m <base href ="main website link">
+Phir body mein < a href ="blog">consulnet</a>
+Lekin iska masla ye h k phir about. Html jesi relative links nahi chalengi
+<table border = "2">
+     <tr>
+        <th>id</th>
+        <th>name</th>
+        </tr>
+    <tr>
+      <td>1</td>
+     <td>ali</td>
+    </tr>
+Properties of table
+<td colspan=" The number of columns we have to merge">sum</td>
+<td rowspan="5">table</td>
+saari heading in <thead> before tr
+tbody for table body
+tfoot for last line
+<img src="xyz" alt="natureimage">

@@ -1,0 +1,21 @@
+css cascading style sheet
+3 ways to use css 
+Inline internal external
+Jis pe style horaha h it is called selector then it had property and value
+Ide integrated development environment
+alt+z to adjust screen bare paragraph ko
+lorem100
+ul>li*10>a
+>means iske ander 
+Ctrl y undo
+Ctrl z back
+Style attribute har element k sath lagsakta h
+<h1 style ="color:blue">
+Inline har element pe alag style karna parta h 
+Internal m head mein style kholo
+<head>
+<style>
+p{color:"blue"}
+Alag se file. CSS 
+Head mein link 
+<link rel="stylesheet" href="style.css"/>
